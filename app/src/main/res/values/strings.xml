@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ScenicHiking</string>
+    <string name="mapbox_access_token">sk.eyJ1Ijoic2FsbWFuZ2hvbGFtcG91ciIsImEiOiJjazA1Y3BweWEyeDJqM2Nwa2VhY2t5YzVwIn0.EP41K7xIADD5xaOZRogHww</string>
+    <string name="over_view_error">You have not selected any point</string>
+    <string name="route_error">Please make a route First!</string>
+    <string name="get_route_error">Please set One point at least</string>
+    <string name="location_error">Please make sure about your location</string>
+    <string name="list_is_empty">There is not any point!</string>
+    <string name="button_gotoList">Go to list</string>
+    <string name="button_get_route">Create route</string>
+    <string name="button_route">Route</string>
+    <string name="button_over_view">Over View</string>
+
+</resources>
